@@ -3,12 +3,36 @@
     <title>abheecorp</title>
     <link href="https://me-abhishekpal.github.io/abheecorp/feed.xml" rel="self" />
     <link href="https://me-abhishekpal.github.io/abheecorp" />
-    <updated>2023-09-03T14:24:24+05:30</updated>
+    <updated>2023-09-03T16:15:21+05:30</updated>
     <author>
         <name>abhee</name>
     </author>
     <id>https://me-abhishekpal.github.io/abheecorp</id>
 
+    <entry>
+        <title>another post</title>
+        <author>
+            <name>abhee</name>
+        </author>
+        <link href="https://me-abhishekpal.github.io/abheecorp/another-post/"/>
+        <id>https://me-abhishekpal.github.io/abheecorp/another-post/</id>
+        <media:content url="https://me-abhishekpal.github.io/abheecorp/media/posts/2/ana-de-armas-as-paloma-in-no-time-to-die-jv-2.jpg" medium="image" />
+
+        <updated>2023-09-03T16:15:21+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://me-abhishekpal.github.io/abheecorp/media/posts/2/ana-de-armas-as-paloma-in-no-time-to-die-jv-2.jpg" alt="" />
+                    what else would you need ?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://me-abhishekpal.github.io/abheecorp/media/posts/2/ana-de-armas-as-paloma-in-no-time-to-die-jv-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://me-abhishekpal.github.io/abheecorp/media/posts/2/ana-de-armas-as-paloma-in-no-time-to-die-jv.jpg" alt="ana" width="7680" height="4320" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://me-abhishekpal.github.io/abheecorp/media/posts/2/responsive/ana-de-armas-as-paloma-in-no-time-to-die-jv-xs.jpg 300w ,https://me-abhishekpal.github.io/abheecorp/media/posts/2/responsive/ana-de-armas-as-paloma-in-no-time-to-die-jv-sm.jpg 480w ,https://me-abhishekpal.github.io/abheecorp/media/posts/2/responsive/ana-de-armas-as-paloma-in-no-time-to-die-jv-md.jpg 768w ,https://me-abhishekpal.github.io/abheecorp/media/posts/2/responsive/ana-de-armas-as-paloma-in-no-time-to-die-jv-lg.jpg 1024w"></figure>
+<p>what else would you need ?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>welcome !</title>
         <author>
