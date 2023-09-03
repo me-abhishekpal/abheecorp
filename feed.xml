@@ -3,7 +3,7 @@
     <title>abheecorp</title>
     <link href="https://me-abhishekpal.github.io/abheecorp/feed.xml" rel="self" />
     <link href="https://me-abhishekpal.github.io/abheecorp" />
-    <updated>2023-09-03T13:57:55+05:30</updated>
+    <updated>2023-09-03T14:24:24+05:30</updated>
     <author>
         <name>abhee</name>
     </author>
@@ -14,17 +14,21 @@
         <author>
             <name>abhee</name>
         </author>
-        <link href="https://me-abhishekpal.github.io/abheecorp/welcome.html"/>
-        <id>https://me-abhishekpal.github.io/abheecorp/welcome.html</id>
+        <link href="https://me-abhishekpal.github.io/abheecorp/welcome/"/>
+        <id>https://me-abhishekpal.github.io/abheecorp/welcome/</id>
+        <media:content url="https://me-abhishekpal.github.io/abheecorp/media/posts/1/anade.jpg" medium="image" />
+            <category term="firstpost"/>
 
-        <updated>2023-09-03T13:57:55+05:30</updated>
+        <updated>2023-09-03T14:24:24+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://me-abhishekpal.github.io/abheecorp/media/posts/1/anade.jpg" alt="ana" />
                     a warm welcome to the site here !
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://me-abhishekpal.github.io/abheecorp/media/posts/1/anade.jpg" class="type:primaryImage" alt="ana" /></p>
                 <p>a warm welcome to the site here !</p>
 
             ]]>

@@ -10,18 +10,20 @@
     },
     "items": [
         {
-            "id": "https://me-abhishekpal.github.io/abheecorp/welcome.html",
-            "url": "https://me-abhishekpal.github.io/abheecorp/welcome.html",
+            "id": "https://me-abhishekpal.github.io/abheecorp/welcome/",
+            "url": "https://me-abhishekpal.github.io/abheecorp/welcome/",
             "title": "welcome !",
             "summary": "a warm welcome to the site here !",
             "content_html": "<p>a warm welcome to the site here !</p>\n",
+            "image": "https://me-abhishekpal.github.io/abheecorp/media/posts/1/anade.jpg",
             "author": {
                 "name": "abhee"
             },
             "tags": [
+                   "firstpost"
             ],
             "date_published": "2023-09-03T13:57:55+05:30",
-            "date_modified": "2023-09-03T13:57:55+05:30"
+            "date_modified": "2023-09-03T14:24:24+05:30"
         }
     ]
 }
