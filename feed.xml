@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>abheecorp</title>
+    <link href="https://me-abhishekpal.github.io/abheecorp/feed.xml" rel="self" />
+    <link href="https://me-abhishekpal.github.io/abheecorp" />
+    <updated>2023-09-03T13:57:55+05:30</updated>
+    <author>
+        <name>abhee</name>
+    </author>
+    <id>https://me-abhishekpal.github.io/abheecorp</id>
+
+    <entry>
+        <title>welcome !</title>
+        <author>
+            <name>abhee</name>
+        </author>
+        <link href="https://me-abhishekpal.github.io/abheecorp/welcome.html"/>
+        <id>https://me-abhishekpal.github.io/abheecorp/welcome.html</id>
+
+        <updated>2023-09-03T13:57:55+05:30</updated>
+            <summary>
+                <![CDATA[
+                    a warm welcome to the site here !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>a warm welcome to the site here !</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

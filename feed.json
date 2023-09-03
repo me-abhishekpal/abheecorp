@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "abheecorp",
+    "description": "",
+    "home_page_url": "https://me-abhishekpal.github.io/abheecorp",
+    "feed_url": "https://me-abhishekpal.github.io/abheecorp/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abhee"
+    },
+    "items": [
+        {
+            "id": "https://me-abhishekpal.github.io/abheecorp/welcome.html",
+            "url": "https://me-abhishekpal.github.io/abheecorp/welcome.html",
+            "title": "welcome !",
+            "summary": "a warm welcome to the site here !",
+            "content_html": "<p>a warm welcome to the site here !</p>\n",
+            "author": {
+                "name": "abhee"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-03T13:57:55+05:30",
+            "date_modified": "2023-09-03T13:57:55+05:30"
+        }
+    ]
+}
